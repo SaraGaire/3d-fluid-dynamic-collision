@@ -1,0 +1,17 @@
+fluid-sim/
+  index.html
+  vite.config.ts
+  tsconfig.json
+  src/
+    main.tsx
+    App.tsx
+    styles.css
+    physics/
+      Droplet.ts
+      FluidSimulation.ts
+    render/
+      CanvasRenderer.ts
+      WebGLRenderer.ts
+      shaders.ts
+    hooks/
+      useFluidSimulation.ts
